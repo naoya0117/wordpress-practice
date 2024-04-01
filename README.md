@@ -1,8 +1,12 @@
 # wordpress-practice
 
+## setup
+
+`$ cp .env.example .env` and edit .env
+
 ## start
 
-`docker compsoe up -d`
+`$ docker-compose up -d`
 
 access to `http://localhost:8000`
 
